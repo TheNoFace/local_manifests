@@ -3,15 +3,15 @@
   <!-- Havoc -->
   <project path="device/xiaomi/jasmine-havoc" name="xiaomi-sdm660/android_device_xiaomi_jasmine_sprout" remote="github" revision="havoc" />
   <project path="device/xiaomi/sdm660-common-havoc" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" remote="github" revision="havoc" />
-  <project path="vendor/xiaomi/jasmine-havoc" name="xiaomi-sdm660/android_vendor_xiaomi_jasmine_sprout" remote="github" revision="master" />
-  <project path="vendor/xiaomi/Miuicamera" name="xiaomi-sdm660/android_vendor_xiaomi_Miuicamera" remote="github" revision="master" />
 
   <!-- Havoc-new -->
   <project path="device/xiaomi/jasmine-havoc_new" name="xiaomi-sdm660/android_device_xiaomi_jasmine_sprout" remote="github" revision="havoc-new" />
   <project path="device/xiaomi/sdm660-common-havoc_new" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" remote="github" revision="havoc-new" />
-  <project path="vendor/xiaomi/jasmine-havoc_new" name="xiaomi-sdm660/android_vendor_xiaomi_jasmine_sprout" remote="github" revision="master" />
+ 
+  <!-- Havoc common -->
   <project path="vendor/xiaomi/Miuicamera" name="xiaomi-sdm660/android_vendor_xiaomi_Miuicamera" remote="github" revision="master" />
-
+  <project path="vendor/xiaomi/jasmine-master" name="xiaomi-sdm660/android_vendor_xiaomi_jasmine_sprout" remote="github" revision="master" />
+ 
   <!-- LOS-16.0 -->
   <project path="device/xiaomi/jasmine-los16" name="xiaomi-sdm660/android_device_xiaomi_jasmine_sprout" remote="github" revision="los-16.0" />
   <project path="device/xiaomi/sdm660-common-los16" name="xiaomi-sdm660/android_device_xiaomi_sdm660-common" remote="github" revision="los-16.0" />
