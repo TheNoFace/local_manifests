@@ -15,7 +15,7 @@
 	<!-- LineageOS repos -->
 	<project path="vendor/oneplus/dumpling" name="TheMuppets/proprietary_vendor_oneplus_dumpling" remote="github" revision="lineage-20" />
 	<project path="vendor/oneplus/msm8998-common" name="TheMuppets/proprietary_vendor_oneplus_msm8998-common" remote="github" revision="lineage-20" />
-	<project path="kernel/oneplus/msm8998" name="LineageOS/android_kernel_oneplus_msm8998" remote="github" revision="lineage-20" />	
+	<!--<project path="kernel/oneplus/msm8998" name="LineageOS/android_kernel_oneplus_msm8998" remote="github" revision="lineage-20" />-->
 	<project path="hardware/oneplus" name="LineageOS/android_hardware_oneplus" remote="github" revision="lineage-20" />
 	<project path="lineage-sdk" name="LineageOS/android_lineage-sdk" remote="github" revision="lineage-20.0" />
 	<!--<project path="device/oneplus/msm8998-common" name="LineageOS/android_device_oneplus_msm8998-common" remote="github" revision="lineage-20" />-->
@@ -26,4 +26,5 @@
 	<!-- Custom repos -->
 	<project path="device/oneplus/dumpling" name="TheNoFace/device_oneplus_dumpling" remote="github" revision="pe-13" />
 	<project path="device/oneplus/msm8998-common" name="TheNoFace/device_oneplus_msm8998-common" remote="github" revision="pe-13" />
+	<project path="kernel/oneplus/msm8998" name="TheNoFace/kernel_oneplus_msm8998" remote="github" revision="pe-13" />
 </manifest>
